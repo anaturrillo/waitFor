@@ -1,0 +1,8 @@
+{
+  "name": "@anaturrillo/wait",
+  "version": "1.0.0",
+  "description": "A shorter Promise.all with objects instead of arrays",
+  "main": "index.js",
+  "author": "ana turrillo",
+  "license": "ISC"
+}
